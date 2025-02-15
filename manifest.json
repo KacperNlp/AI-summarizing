@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "AI Content Summarizing",
+    "version": "1.0.0",
+    "description": "A Google extension that uses AI to summarize articles/page content",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": []
+  }
